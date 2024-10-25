@@ -1,0 +1,30 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: 'Libre Baskerville', serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 50%; 
+    margin: auto; 
+    text-align: center; 
+}
+
+.title {
+    text-transform: uppercase; 
+    margin-bottom: 20px;
+}
+
+.motivational-image {
+    max-width: 100%; 
+    height: auto;
+    border: 5px solid white;
+    display: block;
+    margin: 40px auto 20px; 
+}
+
+.description {
+    margin: 0; 
+}
